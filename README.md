@@ -1,3 +1,3 @@
-# Oriental King v1
+# SKTS Temple
 
 Happy :smile: coding!
