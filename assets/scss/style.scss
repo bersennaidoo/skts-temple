@@ -1808,3 +1808,11 @@ form {
 		opacity: 0;
 	}
 }
+
+.footer {
+	&__border-top {
+		border-top: #DAA620;
+		border-top-style: dotted;
+		border-top-width: 0.1px;
+	}
+}
