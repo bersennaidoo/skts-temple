@@ -7,9 +7,11 @@
   <link rel="icon" type="image/png" href="/img/favicon1.png" />
   {{ partial "head.html" . }}
 </head>
-<body class="index-page" >
-  <div class="container-fluid">
+<body class="" >
+  {{ partial "header.html" . }}
+  <div id="page" class="">
     {{ block "main" . }}{{ end }}
   </div>
+  {{ partial "footer.html" . }}
 </body>
 </html>
