@@ -1,0 +1,26 @@
+/* Gallery container styles */
+.gallery-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Gallery item styles */
+  .gallery-container .col-xs-12 {
+    margin-bottom: 20px;
+  }
+  
+  .gallery-container img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gallery-container a {
+    text-decoration: none;
+  }
