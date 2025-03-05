@@ -239,12 +239,9 @@ h1, h2, h3, h4, h5, h6, figure {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s; }
-  .fh5co-video:hover .overlay {
-    background: rgba(0, 0, 0, 0.7); }
   .fh5co-video:hover a {
     position: relative;
     -webkit-transform: scale(1.2);
@@ -1509,3 +1506,8 @@ form label {
   border-top: #DAA620;
   border-top-style: dotted;
   border-top-width: 0.1px; }
+
+.skts-tamil {
+  font-size: 12rem;
+  font-weight: bold;
+  color: #DAA620; }
